@@ -1,4 +1,4 @@
-# TALAK-SCHEDULAR (Clash-Free University Timetable Generator)
+# Campus Planner (Clash-Free University Timetable Generator)
 
 An AI-powered clash-free timetable generator designed for universities and educational institutions.  
 The system automatically generates optimized class schedules while avoiding timetable conflicts between teachers, rooms, students, and subjects.
@@ -101,3 +101,4 @@ Backend API (Node.js + Express)
 Scheduling Engine (AI Algorithm)
        ↓
 MongoDB Database
+
